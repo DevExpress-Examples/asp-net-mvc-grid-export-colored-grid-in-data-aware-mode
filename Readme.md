@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to export a colored grid when the Data Aware export mode is used
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4098)**
+**[[Run Online]](https://codecentral.devexpress.com/e4098/)**
 <!-- run online end -->
 
 
