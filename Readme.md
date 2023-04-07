@@ -5,7 +5,7 @@
 <!-- default badges end -->
 
 
-# How to export a colored grid when the Data Aware export mode is used
+# Grid View for MVC - How to export a colored grid in Data Aware export mode
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/128551474/)**
 <!-- run online end -->
